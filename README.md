@@ -23,8 +23,3 @@
 ### 협업을 사랑합니다.
 - **페어프로그래밍**을 통한 코드 품질 향상, 상호 발전을 즐깁니다.
 - 팀원과 **함께 성장하는 협업**을 지향합니다.
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bperhaps)](https://github.com/anuraghazra/github-readme-stats)
