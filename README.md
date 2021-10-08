@@ -1,6 +1,6 @@
 # 안녕하세요! 신입 백앤드 개발자 손민성입니다!
 
-### [포트폴리오 보러 가기](https://bperhaps.github.io/portfolio/)
+### [포트폴리오 보러 가기](https://polished-swordfish-378.notion.site/051f18d077cf434883a891eede45dd77)
 
 ### 몰입의 시간을 사랑합니다.
 - 제가 맡을 일에 몰입하는 그 순간을 즐기고 있습니다.
